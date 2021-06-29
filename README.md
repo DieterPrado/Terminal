@@ -1,5 +1,7 @@
-#Java Basic#
-###Table of contents###
+# Java Basic#
+
+### Table of contents###
+
 - General info
 - Technologies
 - Setup
@@ -7,26 +9,29 @@
 
 ------------
 
-###General info###
-The terminal course is a great introduction in how a terminal works. The course teaches a great variety of commands as well as its options and functions. The course cleared up doubts about terminal and was in general a great introduction to how terminal can be manipulated.
+### General info###
+
+The terminal course is a great introduction in how  terminal works. The course teaches a great variety of commands as well as its options and functions. The course cleared up doubts about terminal and was in general a great introduction to how terminal can be manipulated.
 
 ------------
 
-###Technologies###
+### Technologies###
+
 The terminal commands are designed to work in Unix enviroments, so for windows users it is needed to install an application that allows the use of linux commands. In this case it was installed and used **Ubuntu**  from Microsoft Store and worked with its terminal.
 - Ubuntu
 
 ------------
 
-###Setup###
+### Setup###
 
 This project only has commands, so to run this project you only need a Unix based terminal.
 
 ------------
 
 
-###Commands ###
-#####Commands#####
+### Commands ###
+
+##### Commands#####
 
 |  Command | Function  |
 | ------------ | ------------ |
@@ -65,7 +70,8 @@ This project only has commands, so to run this project you only need a Unix base
 |  && | If the previos command runs it will run the next|
 |  ; | Runs synchronized commands. |
 
-#####Command line options#####
+##### Command line options#####
+
 |  Command | Examples  |
 | ------------ | ------------ |
 |  -l  | List format. **ls -l**|
@@ -77,3 +83,7 @@ This project only has commands, so to run this project you only need a Unix base
 |  grep -c | Counts the occurency in a file. |
 |  grep -i | Ignores uppercase or lowercase differences.  |
 |  grep -v | Select the mismatched results. |
+
+
+
+
