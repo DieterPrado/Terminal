@@ -1,4 +1,4 @@
-# Java Basic
+# Terminal
 
 ### Table of contents
 
