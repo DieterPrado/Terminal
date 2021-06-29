@@ -1,5 +1,5 @@
-#Java Basic
-###Table of contents
+#Java Basic#
+###Table of contents###
 - General info
 - Technologies
 - Setup
@@ -26,7 +26,7 @@ This project only has commands, so to run this project you only need a Unix base
 
 
 ###Commands ###
-#####Commands
+#####Commands#####
 
 |  Command | Function  |
 | ------------ | ------------ |
