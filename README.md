@@ -1,4 +1,4 @@
-# Terminal
+# Advanced Java
 
 ### Table of contents
 
@@ -11,21 +11,30 @@
 
 ### General info
 
-The terminal course is a great introduction in how  terminal works. The course teaches a great variety of commands as well as its options and functions. The course cleared up doubts about terminal and was in general a great introduction to how terminal can be manipulated.
-
+This repository contains files and explanaitions created in the Plati'z Java Advanced Course. In the Jada Advanced Course conceptes learned in Java Basic Course were reinforced through a more natural implementation. 
 ------------
 
 ### Technologies
 
-The terminal commands are designed to work in Unix enviroments, so for windows users it is needed to install an application that allows the use of linux commands. In this case it was installed and used **Ubuntu**  from Microsoft Store and worked with its terminal.
-- Ubuntu
-
+- Eclipse (2021-06)
+- XAMMP (8.0.7-0-VS16)
+- MySQL (8.0.25)
 ------------
 
 ### Setup
 
-This project only has commands, so to run this project you only need a Unix based terminal.
 
+##### Install Eclipse
+- Go to https://www.eclipse.org/downloads/ and clic the donwload button.
+- Complete the installation process.
+
+##### XAMPP
+- Go to https://www.apachefriends.org/es/index.html and clic the donwload button that belongs to your OS.
+- Complete the installation process.
+
+##### MySQL
+- o to https://dev.mysql.com/downloads/connector/j/5.1.html select your OS and clic the donwload button.
+- Complete the installation process.
 ------------
 
 
