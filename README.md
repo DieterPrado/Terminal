@@ -1,4 +1,4 @@
-# Termina
+# Terminal
 
 ### Table of contents
 
@@ -36,8 +36,8 @@ This project only has commands, so to run this project you only need a Unix base
 
 ##### Commands
 
-|  Command | Function  | Command line options (Examples)|
-| ------------ | ------------ |
+|  Command | Function  | Command line options (Examples) |
+| ------------ | ------------ | ------------ |
 |  cd | Used to change directory. | none |
 |  pwd | Shows your current directory location. | pwd -L use PWD from environment, even if it contains symlinks|
 |  mkdir | Creates a new directory. | mkdir -v  print a message for each created directory. -m  set file mode (as in chmod), not a=rwx - umask |
